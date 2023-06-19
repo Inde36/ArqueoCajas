@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D3jvYEbK3RvhhQvO9h/mB5YLgsMFjsEKHwQ1nLdK8DcS0ws4jLGqwHVG1po5d8ETK21BrZ/km/ig1qAfffKEfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\source\\repos\\Arqueo de cajas\\Arqueo de cajas\\Arqueo de cajas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

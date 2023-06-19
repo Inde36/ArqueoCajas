@@ -1,0 +1,23 @@
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\bin\Debug\net6.0-windows\Arqueo de cajas.exe
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\bin\Debug\net6.0-windows\Arqueo de cajas.deps.json
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\bin\Debug\net6.0-windows\Arqueo de cajas.runtimeconfig.json
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\bin\Debug\net6.0-windows\Arqueo de cajas.dll
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\bin\Debug\net6.0-windows\Arqueo de cajas.pdb
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\obj\Debug\net6.0-windows\Arqueo de cajas.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\obj\Debug\net6.0-windows\Arqueo_de_cajas.Form1.resources
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\obj\Debug\net6.0-windows\Arqueo de cajas.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\obj\Debug\net6.0-windows\Arqueo de cajas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\obj\Debug\net6.0-windows\Arqueo de cajas.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\obj\Debug\net6.0-windows\Arqueo de cajas.AssemblyInfo.cs
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\obj\Debug\net6.0-windows\Arqueo de cajas.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\obj\Debug\net6.0-windows\Arqueo de cajas.dll
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\obj\Debug\net6.0-windows\refint\Arqueo de cajas.dll
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\obj\Debug\net6.0-windows\Arqueo de cajas.pdb
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\obj\Debug\net6.0-windows\Arqueo de cajas.genruntimeconfig.cache
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\obj\Debug\net6.0-windows\ref\Arqueo de cajas.dll
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\obj\Debug\net6.0-windows\Arqueo de cajas.csproj.CopyComplete
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\usuario\source\repos\Arqueo de cajas\Arqueo de cajas\obj\Debug\net6.0-windows\Arqueo_de_cajas.InputBox.resources
